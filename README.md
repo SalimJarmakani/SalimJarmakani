@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi, I'm Salim 👋
 
-<!--
-**SalimJarmakani/SalimJarmakani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer | MSc Computer Science
 
-Here are some ideas to get you started:
+Curious by nature. I enjoy learning new technologies, exploring ideas, and understanding how systems work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💡 Interests
+Backend Development • Microservices • Distributed Systems • Clean Architecture • Frontend (when required 😅)
+
+---
+
+### 🛠️ Tech I've worked with
+
+**Languages**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="28"/>
+</p>
+
+**Frameworks**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="28"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="28"/>
+</p>
+
+**Databases & Messaging**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="28"/>
+</p>
+
+**Cloud & DevOps**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="28"/>
+</p>
+
+---
+
+⭐ Always learning.
