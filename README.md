@@ -50,4 +50,15 @@ Backend Development • Microservices • Distributed Systems • Clean Architec
 
 ---
 
+### 🤖 ML / AI Research
+
+I also do some ML / AI research — occasionally convincing models *not* to do evil things.
+
+- **Detecting Sleeper Agents in Large Language Models via Semantic Drift Analysis**  
+  *arXiv preprint — 2025*  
+  🔗 https://arxiv.org/abs/2511.15992  
+
+---
+
+
 ⭐ Always learning.
