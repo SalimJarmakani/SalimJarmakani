@@ -11,6 +11,12 @@ Backend Development • Microservices • Distributed Systems • Clean Architec
 
 ---
 
+
+### 📊 Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SalimJarmakani&layout=compact&hide=php,blade,html,css,handlebars&theme=dark)](https://github.com/SalimJarmakani)
+
+
+
 ### 🛠️ Tech I've worked with
 
 **Languages**
